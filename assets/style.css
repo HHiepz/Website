@@ -75,6 +75,11 @@ body {
     margin-bottom: 7px;
 }
 
+.content__detail__text > span > a:hover {
+    color: #e55039;
+    transition: 0.5s color;
+}
+
 .content__detail__text>span:first-child {
     font-weight: 550;
     color: #535c68;
