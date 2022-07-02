@@ -76,7 +76,7 @@ body {
 }
 
 .content__detail__text > span > a:hover {
-    color: #e55039;
+    color: #ecf0f1;
     transition: 0.5s color;
 }
 
@@ -118,6 +118,11 @@ a {
         height: 100%;
         width: 100%;
     }
+
+    /* #wrapper{
+        background: none;
+        color: #fff;
+    } */
 
     #wp_top {
         display: flex;
